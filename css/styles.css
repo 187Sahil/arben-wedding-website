@@ -1161,9 +1161,9 @@ textarea {
         border: 1px solid var(--color-text-dark);
     }
 
-    /* Hero image shifted slightly right on mobile so faces are centred */
+    /* Hero image shifted right on mobile so full couple is visible */
     .hero-bg {
-        background-position: 58% 15% !important;
+        background-position: 68% 15% !important;
     }
 
     /* Allow RSVP labels to wrap on narrow screens */
