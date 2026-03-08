@@ -1161,9 +1161,9 @@ textarea {
         border: 1px solid var(--color-text-dark);
     }
 
-    /* Hero image fine-tuned on mobile so both faces are centered */
+    /* Hero image final position on mobile — both faces perfectly centered */
     .hero-bg {
-        background-position: 25% center !important;
+        background-position: 28% center !important;
     }
 
     /* Allow RSVP labels to wrap on narrow screens */
